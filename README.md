@@ -1,1 +1,1 @@
-# Example_Git
+# Example Git project 
